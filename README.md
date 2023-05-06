@@ -1,7 +1,7 @@
 ### Olá eu sou Jéferson
 
 - 🔭 Estou procurando minha primeira oportunidade na área;
-- 🌱 Estou aprendendo Node, React Native, python;
+- 🌱 Estou aprendendo Node, React Native, python e .net;
 - 📬 contatojefersonsanto@hotmail.com;
 
 <div>
